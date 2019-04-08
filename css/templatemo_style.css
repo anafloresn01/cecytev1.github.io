@@ -333,7 +333,7 @@ hr {
   cursor:pointer;
 }
 
-/*.menu-responsive {
+.menu-responsive {
   display: none;
   background-color: rgba(50, 50, 50, 0.88);
 }
@@ -348,7 +348,7 @@ hr {
 }
 .menu-responsive ul li.active a {
   color: #ec523f;
-}*/
+/
 
 .flexslider {
   position: relative;
